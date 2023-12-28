@@ -1,0 +1,38 @@
+
+nav{
+    padding: 5px 5px;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 0px .3px .5px rgb(216, 216, 216) ;
+    margin-bottom : 100px
+}
+#logo{
+    padding: 10px;
+}
+#end{
+    display : flex;
+    justify-content: sapce-between;
+}
+#box{
+    padding: 10;
+    color : #666;
+}
+#box:hover{
+    cursor : pointer;
+}
+.center{
+    display: flex;
+    justify-content: center;
+}
+button{
+    background-color: #387ed1;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 3px;
+    border: #387ed1;
+    margin : 20px;
+
+}
+button:hover{
+    cursor : pointer
+}
